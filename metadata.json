@@ -1,0 +1,6 @@
+{
+  "name": "Polaris AI",
+  "description": "An elegant reproduction of the Polaris AI landing page with pristine typography and layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
